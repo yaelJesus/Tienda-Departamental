@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <idProducto>1</idProducto>
+  <Nombre>Shampoo</Nombre>
+  <Cliente>Marisol</Cliente>
+  <Usuario>Yael Admin</Usuario>
+  <stock>10</stock>
+  <precio>45.00</precio>
+  <descripcion>Producto de higiene capilar</descripcion>
+ </registro>
+</tabla>

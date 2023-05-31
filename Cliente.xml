@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <idCliente>1</idCliente>
+  <nombre>Pablo</nombre>
+  <apPaterno>Ramires</apPaterno>
+  <apMaterno>Ortiz</apMaterno>
+  <direccion>Los alamos</direccion>
+  <telefono>866-123-7584</telefono>
+ </registro>
+ <registro>
+  <idCliente>2</idCliente>
+  <nombre>Marisol</nombre>
+  <apPaterno>Ramos</apPaterno>
+  <apMaterno>Reyes</apMaterno>
+  <direccion>Salinas de Gortari</direccion>
+  <telefono>866-248-1379</telefono>
+ </registro>
+</tabla>

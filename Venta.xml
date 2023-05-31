@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tabla>
+ <registro>
+  <idVenta>1</idVenta>
+  <Fecha>2023-05-31</Fecha>
+  <Total>135.68</Total>
+  <Empleado>Evelin Searjasub</Empleado>
+ </registro>
+</tabla>
